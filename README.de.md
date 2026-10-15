@@ -4,7 +4,7 @@ Honiglebkuchen mit Safran, Pistazien, Rosenwasser und warmem Lebkuchengewürz. I
 
 **[English recipe →](README.md)**
 
-![Goldbraune Safran-Pistazien-Lebkuchen nach dem Backen in der Heißluftfritteuse](images/air-fryer-finished.jpg)
+![Zwei goldbraune Safran-Pistazien-Lebkuchen auf einem Holzbrett](images/gingerbread-on-board.jpg)
 
 ## Meine bevorzugte Methode: Heißluftfritteuse
 
@@ -84,6 +84,12 @@ Den Ofen wie im schriftlichen Rezept auf **180 °C Ober-/Unterhitze oder 160 °C
 | Gerät und Einstellungen | Fertige Streifen |
 | --- | --- |
 | ![Ninja-Heißluftfritteuse mit gewähltem Modus Air Fry und der Anzeige 6](images/air-fryer-settings.jpg) | ![Zwei gebräunte Streifen nach dem Backen](images/air-fryer-finished.jpg) |
+
+### Ein Blick ins Innere
+
+![Ein aufgebrochener Lebkuchenstreifen zeigt die Krume](images/gingerbread-inside.jpg)
+
+Die Bruchkante zeigt die Krume aus der Nähe.
 
 Fotos von Kian, 15. Oktober 2026. Die öffentlichen Kopien wurden verkleinert und von eingebetteten Metadaten befreit; die Originale bleiben separat erhalten.
 

@@ -4,7 +4,7 @@ Honey-spiced gingerbread with saffron, pistachios, rosewater, and warm Lebkuchen
 
 **[Deutsches Rezept →](README.de.md)**
 
-![Golden saffron pistachio Lebkuchen strips after air frying](images/air-fryer-finished.jpg)
+![Two golden saffron pistachio gingerbread strips on a wooden board](images/gingerbread-on-board.jpg)
 
 ## My preferred method: air fryer
 
@@ -84,6 +84,12 @@ Preheat to **180°C conventional / 160°C fan**, as specified in the written rec
 | Appliance and settings | Finished strips |
 | --- | --- |
 | ![Ninja air fryer with Air Fry selected and the display showing 6](images/air-fryer-settings.jpg) | ![Two browned strips after air frying](images/air-fryer-finished.jpg) |
+
+### A look inside
+
+![A broken gingerbread strip showing its interior crumb](images/gingerbread-inside.jpg)
+
+The broken edge gives a closer look at the crumb.
 
 Photos by Kian, October 15, 2026. Public copies are resized and stripped of embedded metadata; the originals are preserved separately.
 
