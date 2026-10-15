@@ -1,4 +1,4 @@
-# Saffron Pistachio Lebkuchen
+# Saffron Pistachio Gingerbread
 
 Honey-spiced gingerbread with saffron, pistachios, rosewater, and warm Lebkuchen spice. Inspired by the flavors of Persian bastani sonnati, baked as simple strips or cookies.
 
